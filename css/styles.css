@@ -1,0 +1,34 @@
+.container{
+  position: relative;
+  text-align: center;
+  background-color: #BCCEF8;
+}
+
+.image{
+  position: absolute;
+  top: 100px;
+}
+.topleft{
+  position: absolute;
+  top: 160px;
+  left: 180px;
+}
+
+.botttomright{
+  position: absolute;
+  bottom: 140px;
+  right: 140px;
+
+}
+.deepu-text{
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  color: #3E6D9C;
+  /*text-decoration: underline;*/
+}
+
+.maanvi-text{
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  color: #E14D2A;
+}
